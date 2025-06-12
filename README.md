@@ -38,6 +38,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=&fontSize=16" width="100%">
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ## 🚀 关于我
@@ -82,6 +86,10 @@
 ## 🌟 精选项目
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:36BCF7&height=80&section=header&text=✨%20精选项目%20✨&fontSize=28&fontColor=FFFFFF&animation=twinkling" width="100%">
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 </div>
 
@@ -89,31 +97,45 @@
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40">
-</div>
-
-**🔵 围棋游戏 (Weiqi)**
-- 🐍 使用 Python 和 Pygame 开发
-- ⚫ 支持完整的围棋规则
-- 🎨 美观的用户界面设计
-- 🔗 [查看项目](https://github.com/JackPeng-Coder/weiqi)
-
+<td width="50%" align="center" style="position:relative;">
+  <div style="position:absolute;top:-15px;right:-15px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30">
+  </div>
+  <div align="center" class="project-card">
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40">
+    <h3>🔵 围棋游戏 (Weiqi)</h3>
+    <div class="tech-stack">
+      <img src="https://skillicons.dev/icons?i=python,pygame" width="80">
+    </div>
+    <ul>
+      <li>🎮 支持完整的围棋规则</li>
+      <li>🎨 美观的用户界面设计</li>
+      <li>🤖 智能AI对战模式</li>
+    </ul>
+    <a href="https://github.com/JackPeng-Coder/weiqi">
+      <img src="https://img.shields.io/badge/查看项目-36BCF7?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
 </td>
-<td width="50%" align="center">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="40">
-</div>
-
-**🧊 3D魔方模拟器**
-- 🎮 基于 Pygame 的 3D 魔方模拟
-- 🔄 支持魔方操作、打乱、还原
-- ✨ 逼真的 3D 视觉效果
-- 🔗 [查看项目](https://github.com/JackPeng-Coder/cube-simulator)
-
+<td width="50%" align="center" style="position:relative;">
+  <div style="position:absolute;top:-15px;left:-15px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30">
+  </div>
+  <div align="center" class="project-card">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="40">
+    <h3>🧊 3D魔方模拟器</h3>
+    <div class="tech-stack">
+      <img src="https://skillicons.dev/icons?i=pygame,opengl" width="80">
+    </div>
+    <ul>
+      <li>🎮 支持魔方操作/打乱/还原</li>
+      <li>✨ 逼真的3D视觉效果</li>
+      <li>📊 解法步骤可视化</li>
+    </ul>
+    <a href="https://github.com/JackPeng-Coder/cube-simulator">
+      <img src="https://img.shields.io/badge/查看项目-FF6B6B?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -225,15 +247,23 @@
 ## 🎯 专业领域
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="80%">
+</div>
+
+<div align="center">
 
 | <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **游戏开发** | <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **魔方算法** |
 |:---:|:---:|
-| Pygame, 2D/3D 图形编程 | 魔方求解算法, 数据分析 |
+| 🎮 Pygame, 2D/3D 图形编程 | 🧊 魔方求解算法, 数据分析 |
 | <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> **工具开发** | <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3f1c2d0c4fd5.gif" width="30"> **UI设计** |
-| 自动化工具, 系统集成 | 用户界面设计, 用户体验优化 |
+| 🔧 自动化工具, 系统集成 | 🎨 用户界面设计, 用户体验优化 |
 | <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **跨平台开发** | <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> **Python 生态** |
-| Windows 应用程序开发 | 框架集成, 库开发 |
+| 💻 Windows 应用程序开发 | 🐍 框架集成, 库开发 |
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="80%">
 </div>
 
 <div align="center">
@@ -241,6 +271,14 @@
 </div>
 
 ## 🌱 当前关注
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=&fontSize=16" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🎮+探索更多游戏开发技术+和+创新玩法;🐍+学习新的+Python+框架和库;⚡+优化现有项目的性能和用户体验;🤝+寻找有趣的开源项目合作机会;🚀+持续学习+AI+和+机器学习技术" alt="Current Focus" />
+</div>
 
 <div align="center">
 
@@ -252,6 +290,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"> **寻找有趣的开源项目合作机会**
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=&fontSize=16" width="100%">
 </div>
 
 <div align="center">
@@ -292,16 +334,30 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JackPeng-Coder&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JackPeng-Coder?style=for-the-badge&color=blue&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/JackPeng-Coder?style=for-the-badge&color=yellow&labelColor=black" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=JackPeng-Coder&color=gradient&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/JackPeng-Coder?style=for-the-badge&color=FF6B6B&labelColor=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/JackPeng-Coder?style=for-the-badge&color=FFD93D&labelColor=1a1a2e" alt="Stars" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3f1c2d0c4fd5.gif" width="20">
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100">
-  
-  **"代码是诗歌，程序是艺术"** ✨
-  
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💫+%22代码是诗歌，程序是艺术%22+💫;✨+Thanks+for+visiting+my+profile!+✨;🚀+Let's+create+something+amazing+together!+🚀" alt="Footer Quote" />
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 </div>
 
