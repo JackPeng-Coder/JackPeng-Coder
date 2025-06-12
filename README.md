@@ -1,13 +1,37 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+JackPeng-Coder+👋;🐍+Python+Developer+%26+🎮+Game+Enthusiast;🚀+Welcome+to+my+Coding+Universe!;💡+Creating+Magic+with+Code;🌟+Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+JackPeng-Coder+👋;🐍+Python+Developer+%26+🎮+Game+Enthusiast;🚀+Welcome+to+my+Coding+Universe!;💡+Creating+Magic+with+Code;🌟+Let's+Build+Something+Amazing!;🔥+Passionate+about+Innovation;⚡+Always+Learning+%26+Growing;🎯+Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JackPeng-Coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub Stats" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3f1c2d0c4fd5.gif" width="30">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JackPeng-Coder&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117,1a1a2e,16213e&title_color=FF6B6B&text_color=C9D1D9&icon_color=FFD93D&border_radius=15" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="20">
 </div>
 
 <div align="center">
@@ -33,18 +57,22 @@
 ## 🎯 技术栈
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80">
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pygame,html,css,js,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pygame,html,css,js,git,github,vscode&theme=dark&perline=8" alt="Tech Stack" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=🐍+Python+%7C+🎮+Pygame+%7C+🌐+Web+Development;🔧+Git+%7C+💻+VS+Code+%7C+🚀+Always+Learning" alt="Tech Skills" />
 </div>
 
 <div align="center">
@@ -163,15 +191,31 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackPeng-Coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackPeng-Coder&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackPeng-Coder&layout=donut&theme=radical&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=FF6B6B&text_color=C9D1D9&border_radius=15" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JackPeng-Coder&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JackPeng-Coder&theme=radical&hide_border=true&background=0D1117,1a1a2e,16213e&ring=FF6B6B&fire=FFD93D&currStreakLabel=C9D1D9&border_radius=15" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JackPeng-Coder&theme=redical&bg_color=0D1117,1a1a2e,16213e&color=FF6B6B&line=FFD93D&point=FF6B6B&area=true&hide_border=true&border_radius=15" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -217,16 +261,28 @@
 ## 📫 联系我
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="500">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=📧+Let's+Connect+and+Collaborate!;🤝+Always+Open+to+New+Opportunities;💬+Feel+Free+to+Reach+Out!" alt="Contact Typing" />
 </div>
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-JackPeng--Coder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JackPeng-Coder)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-JackPeng--Coder-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/JackPeng-Coder)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121)](mailto:your-email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1A91DA)](#)
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="25">
 </div>
 
 ---
