@@ -14,6 +14,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
+<!-- GitHub贡献图贪吃蛇动画 -->
+<div align="center">
+  <img src="https://camo.githubusercontent.com/04ce4cdf26c2c35e7388d50d6583095e775cb574d4b22704383a459886bfa611/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f70726f66696c652d736e616b652d636f6e747269622f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652d6461726b2e737667" alt="Snake animation" />
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
