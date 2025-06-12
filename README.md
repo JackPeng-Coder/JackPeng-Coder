@@ -59,9 +59,9 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> 游戏开发
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40">
@@ -74,7 +74,7 @@
 - 🔗 [查看项目](https://github.com/JackPeng-Coder/weiqi)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="40">
@@ -92,9 +92,9 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> 实用工具
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40">
@@ -107,7 +107,7 @@
 - 🔗 [查看项目](https://github.com/JackPeng-Coder/hackerclock)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40">
@@ -125,9 +125,9 @@
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3f1c2d0c4fd5.gif" width="30"> 创意项目
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="40">
@@ -140,7 +140,7 @@
 - 🔗 [查看项目](https://github.com/JackPeng-Coder/end-poem)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40">
