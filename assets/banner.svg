@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="把数学和物理写成代码 — 魔方玩家，在读学生">
+  <title>把数学和物理写成代码</title>
+
+  <defs>
+    <!-- 蓝图网格：呼应数学模拟里的坐标纸 -->
+    <pattern id="blueprint" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M 25 0 L 0 0 0 25" fill="none" stroke="#141B26" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0C10"/>
+      <stop offset="0.55" stop-color="#0B0F16"/>
+      <stop offset="1" stop-color="#0E141E"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3E63DD" stop-opacity="0.85"/>
+      <stop offset="0.75" stop-color="#3E63DD" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#3E63DD" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <rect width="1000" height="280" fill="url(#blueprint)"/>
+
+  <!-- ================= 左侧主文案 ================= -->
+  <g font-family="'Segoe UI', -apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
+    <text x="60" y="124" font-size="62" font-weight="700" fill="#E6EAF0">把数学和物理</text>
+    <text x="60" y="190" font-size="62" font-weight="700" fill="#E6EAF0">写成代码</text>
+  </g>
+
+  <!-- 横贯到魔方脚下的分隔线：把左右两半连成一体，而不是留一个空洞 -->
+  <rect x="60" y="216" width="630" height="2" fill="url(#rule)"/>
+
+  <g font-family="'Segoe UI', -apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
+    <text x="60" y="248" font-size="18" fill="#7A8699">魔方玩家 · 在读学生</text>
+  </g>
+
+  <!-- ================= 签名元素：打乱的 3x3 魔方 ================= -->
+  <!-- 轴测投影：正面 200x200（贴纸 62、间隙 7），厚度 30 -->
+  <!-- 六面配色：白 #E6EAF0 / 红 #E5484D / 黄 #F2D024 / 橙 #F5A524 / 绿 #30A46C / 蓝 #3E63DD -->
+  <!-- 局部坐标 y 从 -30（顶面最上）到 200（正面最下），整体高 230；平移 55 后正好上下各留 25 -->
+  <g transform="translate(714, 55)">
+
+    <!-- 顶面：向右上收进 30 -->
+    <g fill="#232C3B" stroke="#313D50" stroke-width="1.2">
+      <polygon points="0,0 62,0 92,-30 30,-30"/>
+      <polygon points="69,0 131,0 161,-30 99,-30"/>
+      <polygon points="138,0 200,0 230,-30 168,-30"/>
+    </g>
+
+    <!-- 右侧面：向右下收进 30，比顶面更暗 -->
+    <g fill="#161C26" stroke="#242E3D" stroke-width="1.2">
+      <polygon points="200,0 230,-30 230,32 200,62"/>
+      <polygon points="200,69 230,39 230,101 200,131"/>
+      <polygon points="200,138 230,108 230,170 200,200"/>
+    </g>
+
+    <!-- 正面：打乱的六色 -->
+    <g stroke="#0A0C10" stroke-width="2">
+      <rect x="0"   y="0"   width="62" height="62" rx="5" fill="#E6EAF0"/>
+      <rect x="69"  y="0"   width="62" height="62" rx="5" fill="#3E63DD"/>
+      <rect x="138" y="0"   width="62" height="62" rx="5" fill="#E5484D"/>
+
+      <rect x="0"   y="69"  width="62" height="62" rx="5" fill="#F2D024"/>
+      <rect x="69"  y="69"  width="62" height="62" rx="5" fill="#30A46C"/>
+      <rect x="138" y="69"  width="62" height="62" rx="5" fill="#F5A524"/>
+
+      <rect x="0"   y="138" width="62" height="62" rx="5" fill="#3E63DD"/>
+      <rect x="69"  y="138" width="62" height="62" rx="5" fill="#E5484D"/>
+      <rect x="138" y="138" width="62" height="62" rx="5" fill="#E6EAF0"/>
+    </g>
+  </g>
+</svg>
